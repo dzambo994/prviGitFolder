@@ -1,0 +1,2 @@
+# prviGitFolder
+moj prvi folder
